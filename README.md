@@ -14,6 +14,7 @@ This project demonstrates my experience setting up and managing a Windows Server
 - Assigned users to groups
 - Managed domain users with Active Directory Users and Computers
 - Created and managed GPOs
+- Implemented a ticketing system (finalizing)
 
 ## Environment
 
